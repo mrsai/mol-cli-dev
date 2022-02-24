@@ -18,5 +18,9 @@
   },
   "dependencies": {
     "@mol-cli-dev/utils": "^1.0.2"
+  },
+  "gitHead": "13bdf2c9a09047d45f745caa7b3e0bd4266b1dbe",
+  "publishConfig": {
+    "access": "public"
   }
 }
